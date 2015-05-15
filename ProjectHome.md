@@ -1,0 +1,1 @@
+Placa de monitoramento de semáforo
